@@ -73,6 +73,9 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
+		1F5B549653532B41AC5E7BC3 /* libPods-ARosg.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 76DBC584DD058879ED0B4801 /* libPods-ARosg.a */; };
+		38E6932C477C6DC9A2FF7CF5 /* libPods-ARUtil.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C972E307767C097BDB096B2D /* libPods-ARUtil.a */; };
+		3E816A1EBBF203E800F6299E /* libPods-ARICP.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FD5CB6D84901C9132AB5F367 /* libPods-ARICP.a */; };
 		4A089BC8133C93DE00974D65 /* libfreetype.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4ACEFC2F130AEC6C009D1DA0 /* libfreetype.a */; };
 		4A089BC9133C93DE00974D65 /* libOpenThreads.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4ACEFC31130AEC6C009D1DA0 /* libOpenThreads.a */; };
 		4A089BCA133C93DE00974D65 /* libosg.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4ACEFC32130AEC6C009D1DA0 /* libosg.a */; };
@@ -893,6 +896,23 @@
 		4AF9712B1B5F5709001BFEB5 /* timers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4AF9706A1B5F5708001BFEB5 /* timers.cpp */; };
 		4AF9712D1B5F5709001BFEB5 /* freak.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4AF970771B5F5708001BFEB5 /* freak.cpp */; };
 		4AF9712E1B5F5709001BFEB5 /* hough_similarity_voting.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4AF9707A1B5F5708001BFEB5 /* hough_similarity_voting.cpp */; };
+		5FCB3FA39900829E902C9449 /* libPods-ARAppCameraTest.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A828363CB7C660EE97FC593 /* libPods-ARAppCameraTest.a */; };
+		6611F99E0E93362B12E92487 /* libPods-ARvideo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 393C8F3516EE71E9A075B227 /* libPods-ARvideo.a */; };
+		6EDDFCB058E97F3AD1A41D39 /* libPods-ARAppMovie.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ADDCE959577DBBA4ABCD8353 /* libPods-ARAppMovie.a */; };
+		744FC0072DD20E6A30A6540F /* libPods-ARMulti.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3531F419E4121C4C7BA5F1E9 /* libPods-ARMulti.a */; };
+		747F292FA3226F24BEBE4E26 /* libPods-ARAppES1.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C3CDBB24EFF447C89DD657B /* libPods-ARAppES1.a */; };
+		75A89B8FEA7C66AC423367B2 /* libPods-KPM.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 35A2669362BE481A94CA9CA0 /* libPods-KPM.a */; };
+		8B217217F4B004C6F26DF6E7 /* libPods-ARAppNFT.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A17AA99EDA84995D481DD521 /* libPods-ARAppNFT.a */; };
+		8C5CB36053BC81185150F77C /* libPods-ARApp2.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F2A522FDD0385C60E5D89BC9 /* libPods-ARApp2.a */; };
+		8F4C74FE40E84860688724E1 /* libPods-Eden.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9C7779F2897B8BFFBFA324B8 /* libPods-Eden.a */; };
+		90FC946D0E57F9D496B218A4 /* libPods-ARgsub_es.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AB1762FAFDC44C988F658806 /* libPods-ARgsub_es.a */; };
+		9782D662DD706EE2282350A9 /* libPods-ARApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CE6A700B0DCB845D51490A07 /* libPods-ARApp.a */; };
+		B78E6B90B83FFA4FC8F2C190 /* libPods-ARgsub_es2.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4DE98304A92224214257FECF /* libPods-ARgsub_es2.a */; };
+		CA9836AD0B4503CEAEAA3887 /* libPods-ARAppOSG.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C5C590E15211A63EA70C9A40 /* libPods-ARAppOSG.a */; };
+		CAEF4B17E3EB7E5E34E36865 /* libPods-ARWrapper.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DB2BFCC57DBA8723521E654D /* libPods-ARWrapper.a */; };
+		D46FF784AC5443DAC1138444 /* libPods-AR2.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B817B14DCAAE87C73700ABB0 /* libPods-AR2.a */; };
+		E2D55639ED37EF5F4D6B33AC /* libPods-AR.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9E97104CAFA83DEC1A9B1E9F /* libPods-AR.a */; };
+		EB7BDDE10697526F187E24E0 /* libPods-ARAppNFTOSG.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D0B3280973DB9CCCD33C4DEA /* libPods-ARAppNFTOSG.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -1579,6 +1599,31 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		067BDDFDBD2AA594EF30BF9B /* Pods-ARAppES1.distribution.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARAppES1.distribution.xcconfig"; path = "Pods/Target Support Files/Pods-ARAppES1/Pods-ARAppES1.distribution.xcconfig"; sourceTree = "<group>"; };
+		096E5F060C39A84B08660495 /* Pods-ARAppOSG.distribution.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARAppOSG.distribution.xcconfig"; path = "Pods/Target Support Files/Pods-ARAppOSG/Pods-ARAppOSG.distribution.xcconfig"; sourceTree = "<group>"; };
+		0CC4A6BA887870F1EFEF6152 /* Pods-ARApp2.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARApp2.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ARApp2/Pods-ARApp2.debug.xcconfig"; sourceTree = "<group>"; };
+		108AC06EC5B4019F4107F94D /* Pods-ARAppCameraTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARAppCameraTest.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ARAppCameraTest/Pods-ARAppCameraTest.debug.xcconfig"; sourceTree = "<group>"; };
+		1238701031AA72E70330DE74 /* Pods-AR.distribution.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AR.distribution.xcconfig"; path = "Pods/Target Support Files/Pods-AR/Pods-AR.distribution.xcconfig"; sourceTree = "<group>"; };
+		1456CCD72524F7F2C0047C32 /* Pods-ARAppOSG.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARAppOSG.release.xcconfig"; path = "Pods/Target Support Files/Pods-ARAppOSG/Pods-ARAppOSG.release.xcconfig"; sourceTree = "<group>"; };
+		1537853F067A54D0054AA50F /* Pods-ARgsub_es.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARgsub_es.release.xcconfig"; path = "Pods/Target Support Files/Pods-ARgsub_es/Pods-ARgsub_es.release.xcconfig"; sourceTree = "<group>"; };
+		16F29BD6A841D19F874474A1 /* Pods-ARAppES1.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARAppES1.release.xcconfig"; path = "Pods/Target Support Files/Pods-ARAppES1/Pods-ARAppES1.release.xcconfig"; sourceTree = "<group>"; };
+		1B26F8E54C0FE4FBF89E7220 /* Pods-ARApp2.distribution.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARApp2.distribution.xcconfig"; path = "Pods/Target Support Files/Pods-ARApp2/Pods-ARApp2.distribution.xcconfig"; sourceTree = "<group>"; };
+		238C05A301FE67C75DA4B2A5 /* Pods-ARvideo.distribution.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARvideo.distribution.xcconfig"; path = "Pods/Target Support Files/Pods-ARvideo/Pods-ARvideo.distribution.xcconfig"; sourceTree = "<group>"; };
+		2404D3FDC89A2EA5D2E5C357 /* Pods-ARAppES1.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARAppES1.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ARAppES1/Pods-ARAppES1.debug.xcconfig"; sourceTree = "<group>"; };
+		259E8A01BC2A9779543A38DB /* Pods-ARApp.distribution.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARApp.distribution.xcconfig"; path = "Pods/Target Support Files/Pods-ARApp/Pods-ARApp.distribution.xcconfig"; sourceTree = "<group>"; };
+		25FEBFA390620300DABDD696 /* Pods-ARgsub_es2.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARgsub_es2.release.xcconfig"; path = "Pods/Target Support Files/Pods-ARgsub_es2/Pods-ARgsub_es2.release.xcconfig"; sourceTree = "<group>"; };
+		273760C0D8A00ACA9755415D /* Pods-ARApp2.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARApp2.release.xcconfig"; path = "Pods/Target Support Files/Pods-ARApp2/Pods-ARApp2.release.xcconfig"; sourceTree = "<group>"; };
+		274FAE14E0401B51618ACA80 /* Pods-ARUtil.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARUtil.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ARUtil/Pods-ARUtil.debug.xcconfig"; sourceTree = "<group>"; };
+		30166430E38CC36681480B57 /* Pods-ARgsub_es.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARgsub_es.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ARgsub_es/Pods-ARgsub_es.debug.xcconfig"; sourceTree = "<group>"; };
+		31692EC327E560DA1C9C3D09 /* Pods-AR2.distribution.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AR2.distribution.xcconfig"; path = "Pods/Target Support Files/Pods-AR2/Pods-AR2.distribution.xcconfig"; sourceTree = "<group>"; };
+		3531F419E4121C4C7BA5F1E9 /* libPods-ARMulti.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ARMulti.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		35A2669362BE481A94CA9CA0 /* libPods-KPM.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-KPM.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		35B54BC1BD89A1AE314C15ED /* Pods-ARAppMovie.distribution.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARAppMovie.distribution.xcconfig"; path = "Pods/Target Support Files/Pods-ARAppMovie/Pods-ARAppMovie.distribution.xcconfig"; sourceTree = "<group>"; };
+		393C8F3516EE71E9A075B227 /* libPods-ARvideo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ARvideo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		39EFAE87941BE53BE0D6E963 /* Pods-Eden.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Eden.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Eden/Pods-Eden.debug.xcconfig"; sourceTree = "<group>"; };
+		3A828363CB7C660EE97FC593 /* libPods-ARAppCameraTest.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ARAppCameraTest.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3E3183A02DB45AE600A6A71C /* Pods-ARWrapper.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARWrapper.release.xcconfig"; path = "Pods/Target Support Files/Pods-ARWrapper/Pods-ARWrapper.release.xcconfig"; sourceTree = "<group>"; };
+		462F2761B3A986E87AB3C7FA /* Pods-AR2.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AR2.release.xcconfig"; path = "Pods/Target Support Files/Pods-AR2/Pods-AR2.release.xcconfig"; sourceTree = "<group>"; };
 		4A0619B213D59DF10066826B /* ARAppMovie-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ARAppMovie-Info.plist"; sourceTree = "<group>"; };
 		4A0619B313D59DF10066826B /* ARAppMovie_Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = ARAppMovie_Prefix.pch; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		4A0619B413D59DF10066826B /* ARAppMovieDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = ARAppMovieDelegate.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
@@ -3223,6 +3268,22 @@
 		4AF9711E1B5F5709001BFEB5 /* point.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = point.h; sourceTree = "<group>"; };
 		4AF9711F1B5F5709001BFEB5 /* kpmPrivate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = kpmPrivate.h; sourceTree = "<group>"; };
 		4AF9714D1B5F58A6001BFEB5 /* LICENSE.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
+		4CDCB51013C5A1AF3657981E /* Pods-ARMulti.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARMulti.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ARMulti/Pods-ARMulti.debug.xcconfig"; sourceTree = "<group>"; };
+		4DE98304A92224214257FECF /* libPods-ARgsub_es2.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ARgsub_es2.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		50AE9896682C3316EF0E3766 /* Pods-AR.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AR.release.xcconfig"; path = "Pods/Target Support Files/Pods-AR/Pods-AR.release.xcconfig"; sourceTree = "<group>"; };
+		510D12B714A3B8A10568159F /* Pods-AR2.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AR2.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AR2/Pods-AR2.debug.xcconfig"; sourceTree = "<group>"; };
+		51DF3987B19876BFE785FD8C /* Pods-ARMulti.distribution.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARMulti.distribution.xcconfig"; path = "Pods/Target Support Files/Pods-ARMulti/Pods-ARMulti.distribution.xcconfig"; sourceTree = "<group>"; };
+		52649A94BF07555A39124494 /* Pods-ARApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARApp.release.xcconfig"; path = "Pods/Target Support Files/Pods-ARApp/Pods-ARApp.release.xcconfig"; sourceTree = "<group>"; };
+		5421664FD69EF873C08ACDA2 /* Pods-Eden.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Eden.release.xcconfig"; path = "Pods/Target Support Files/Pods-Eden/Pods-Eden.release.xcconfig"; sourceTree = "<group>"; };
+		5C92B0E65DAC3BACC4370429 /* Pods-ARAppNFTOSG.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARAppNFTOSG.release.xcconfig"; path = "Pods/Target Support Files/Pods-ARAppNFTOSG/Pods-ARAppNFTOSG.release.xcconfig"; sourceTree = "<group>"; };
+		5EF06534247E4E98F0245499 /* Pods-ARAppNFT.distribution.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARAppNFT.distribution.xcconfig"; path = "Pods/Target Support Files/Pods-ARAppNFT/Pods-ARAppNFT.distribution.xcconfig"; sourceTree = "<group>"; };
+		5FCAB3670DF36FAE666111AC /* Pods-KPM.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KPM.debug.xcconfig"; path = "Pods/Target Support Files/Pods-KPM/Pods-KPM.debug.xcconfig"; sourceTree = "<group>"; };
+		6288E63D2B02CEDCBAB728FD /* Pods-ARAppCameraTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARAppCameraTest.release.xcconfig"; path = "Pods/Target Support Files/Pods-ARAppCameraTest/Pods-ARAppCameraTest.release.xcconfig"; sourceTree = "<group>"; };
+		6296F445EDBC7E777643E09C /* Pods-ARosg.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARosg.release.xcconfig"; path = "Pods/Target Support Files/Pods-ARosg/Pods-ARosg.release.xcconfig"; sourceTree = "<group>"; };
+		64ECD311BC4E3C84E7989E93 /* Pods-ARMulti.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARMulti.release.xcconfig"; path = "Pods/Target Support Files/Pods-ARMulti/Pods-ARMulti.release.xcconfig"; sourceTree = "<group>"; };
+		665610DE89ECA391A5873250 /* Pods-AR.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AR.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AR/Pods-AR.debug.xcconfig"; sourceTree = "<group>"; };
+		76DBC584DD058879ED0B4801 /* libPods-ARosg.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ARosg.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		77BD5F5D5585C15FFC17F02A /* Pods-ARgsub_es2.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARgsub_es2.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ARgsub_es2/Pods-ARgsub_es2.debug.xcconfig"; sourceTree = "<group>"; };
 		78BB3E5E08E482F400D7CA2D /* arMultiFreeConfig.c */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.c; path = arMultiFreeConfig.c; sourceTree = "<group>"; };
 		78BB3E5F08E482F400D7CA2D /* arMultiGetTransMat.c */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.c; path = arMultiGetTransMat.c; sourceTree = "<group>"; };
 		78BB3E6008E482F400D7CA2D /* arMultiGetTransMatStereo.c */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.c; path = arMultiGetTransMatStereo.c; sourceTree = "<group>"; };
@@ -3239,6 +3300,45 @@
 		78BB3F1908E4837000D7CA2D /* videoDummy.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; path = videoDummy.h; sourceTree = "<group>"; };
 		78BB3F2008E4837000D7CA2D /* video.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = video.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
 		78BB3F2108E4837000D7CA2D /* videoConfig.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; path = videoConfig.h; sourceTree = "<group>"; };
+		7BA132CD918D3D47ADEADCE7 /* Pods-ARAppMovie.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARAppMovie.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ARAppMovie/Pods-ARAppMovie.debug.xcconfig"; sourceTree = "<group>"; };
+		80744349C5EF13135B9DCCC3 /* Pods-ARAppCameraTest.distribution.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARAppCameraTest.distribution.xcconfig"; path = "Pods/Target Support Files/Pods-ARAppCameraTest/Pods-ARAppCameraTest.distribution.xcconfig"; sourceTree = "<group>"; };
+		8300509E2CC300CDC2143156 /* Pods-ARosg.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARosg.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ARosg/Pods-ARosg.debug.xcconfig"; sourceTree = "<group>"; };
+		83D113721B0C8298B7473FF8 /* Pods-ARICP.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARICP.release.xcconfig"; path = "Pods/Target Support Files/Pods-ARICP/Pods-ARICP.release.xcconfig"; sourceTree = "<group>"; };
+		88D088A85358C8880CE5D3A9 /* Pods-ARgsub_es2.distribution.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARgsub_es2.distribution.xcconfig"; path = "Pods/Target Support Files/Pods-ARgsub_es2/Pods-ARgsub_es2.distribution.xcconfig"; sourceTree = "<group>"; };
+		8C3CDBB24EFF447C89DD657B /* libPods-ARAppES1.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ARAppES1.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		901BA19F5D37E92F9EF310F2 /* Pods-KPM.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KPM.release.xcconfig"; path = "Pods/Target Support Files/Pods-KPM/Pods-KPM.release.xcconfig"; sourceTree = "<group>"; };
+		94762A841E4A179EE12A6AE8 /* Pods-ARICP.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARICP.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ARICP/Pods-ARICP.debug.xcconfig"; sourceTree = "<group>"; };
+		97D7D6D9691628D6343E4272 /* Pods-ARAppNFT.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARAppNFT.release.xcconfig"; path = "Pods/Target Support Files/Pods-ARAppNFT/Pods-ARAppNFT.release.xcconfig"; sourceTree = "<group>"; };
+		98B1D9244BA02D8A5DEE8BD4 /* Pods-ARWrapper.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARWrapper.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ARWrapper/Pods-ARWrapper.debug.xcconfig"; sourceTree = "<group>"; };
+		9C7779F2897B8BFFBFA324B8 /* libPods-Eden.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Eden.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9E97104CAFA83DEC1A9B1E9F /* libPods-AR.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AR.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9F95D492F4C634DFB1380446 /* Pods-ARvideo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARvideo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ARvideo/Pods-ARvideo.debug.xcconfig"; sourceTree = "<group>"; };
+		A17AA99EDA84995D481DD521 /* libPods-ARAppNFT.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ARAppNFT.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A9D063C226622DA2B6DA2303 /* Pods-ARUtil.distribution.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARUtil.distribution.xcconfig"; path = "Pods/Target Support Files/Pods-ARUtil/Pods-ARUtil.distribution.xcconfig"; sourceTree = "<group>"; };
+		A9EB79E53280F8DF46A03FBC /* Pods-ARAppNFTOSG.distribution.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARAppNFTOSG.distribution.xcconfig"; path = "Pods/Target Support Files/Pods-ARAppNFTOSG/Pods-ARAppNFTOSG.distribution.xcconfig"; sourceTree = "<group>"; };
+		AB1762FAFDC44C988F658806 /* libPods-ARgsub_es.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ARgsub_es.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AB8F24024660E0F9AF275B6B /* Pods-ARApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARApp.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ARApp/Pods-ARApp.debug.xcconfig"; sourceTree = "<group>"; };
+		ADDCE959577DBBA4ABCD8353 /* libPods-ARAppMovie.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ARAppMovie.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B49BC77199279B58ADBDA1F2 /* Pods-ARUtil.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARUtil.release.xcconfig"; path = "Pods/Target Support Files/Pods-ARUtil/Pods-ARUtil.release.xcconfig"; sourceTree = "<group>"; };
+		B817B14DCAAE87C73700ABB0 /* libPods-AR2.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AR2.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BE8B61CA48F87F679446D784 /* Pods-ARgsub_es.distribution.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARgsub_es.distribution.xcconfig"; path = "Pods/Target Support Files/Pods-ARgsub_es/Pods-ARgsub_es.distribution.xcconfig"; sourceTree = "<group>"; };
+		C30EA82935EF2864C249AF14 /* Pods-KPM.distribution.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KPM.distribution.xcconfig"; path = "Pods/Target Support Files/Pods-KPM/Pods-KPM.distribution.xcconfig"; sourceTree = "<group>"; };
+		C5C590E15211A63EA70C9A40 /* libPods-ARAppOSG.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ARAppOSG.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C972E307767C097BDB096B2D /* libPods-ARUtil.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ARUtil.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE6A700B0DCB845D51490A07 /* libPods-ARApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ARApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D0B3280973DB9CCCD33C4DEA /* libPods-ARAppNFTOSG.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ARAppNFTOSG.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D3A51BB4BE6FE5D012482033 /* Pods-ARAppNFT.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARAppNFT.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ARAppNFT/Pods-ARAppNFT.debug.xcconfig"; sourceTree = "<group>"; };
+		D9EF4B750885C1DCEB54251B /* Pods-ARWrapper.distribution.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARWrapper.distribution.xcconfig"; path = "Pods/Target Support Files/Pods-ARWrapper/Pods-ARWrapper.distribution.xcconfig"; sourceTree = "<group>"; };
+		DB2BFCC57DBA8723521E654D /* libPods-ARWrapper.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ARWrapper.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E118490918DF4076D4C945AD /* Pods-ARvideo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARvideo.release.xcconfig"; path = "Pods/Target Support Files/Pods-ARvideo/Pods-ARvideo.release.xcconfig"; sourceTree = "<group>"; };
+		E156B9B38C86A9D997332755 /* Pods-ARosg.distribution.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARosg.distribution.xcconfig"; path = "Pods/Target Support Files/Pods-ARosg/Pods-ARosg.distribution.xcconfig"; sourceTree = "<group>"; };
+		E4229062DE26582F87278436 /* Pods-ARAppOSG.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARAppOSG.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ARAppOSG/Pods-ARAppOSG.debug.xcconfig"; sourceTree = "<group>"; };
+		E89388A82ADED1788E971580 /* Pods-Eden.distribution.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Eden.distribution.xcconfig"; path = "Pods/Target Support Files/Pods-Eden/Pods-Eden.distribution.xcconfig"; sourceTree = "<group>"; };
+		EA0B0F42E8BDD10361C872DD /* Pods-ARAppMovie.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARAppMovie.release.xcconfig"; path = "Pods/Target Support Files/Pods-ARAppMovie/Pods-ARAppMovie.release.xcconfig"; sourceTree = "<group>"; };
+		EC8B2CE87506986F0E98C168 /* Pods-ARAppNFTOSG.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARAppNFTOSG.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ARAppNFTOSG/Pods-ARAppNFTOSG.debug.xcconfig"; sourceTree = "<group>"; };
+		EFC9906B398D2ECCB1378B7A /* Pods-ARICP.distribution.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARICP.distribution.xcconfig"; path = "Pods/Target Support Files/Pods-ARICP/Pods-ARICP.distribution.xcconfig"; sourceTree = "<group>"; };
+		F2A522FDD0385C60E5D89BC9 /* libPods-ARApp2.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ARApp2.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FD5CB6D84901C9132AB5F367 /* libPods-ARICP.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ARICP.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -3371,6 +3471,7 @@
 				4A875C9A1B6051A0002A00A1 /* libosgdb_zip.a in Frameworks */,
 				4A875C7E1B6051A0002A00A1 /* libosgdb_revisions.a in Frameworks */,
 				4A13038E15BE088D003A441C /* libz.dylib in Frameworks */,
+				EB7BDDE10697526F187E24E0 /* libPods-ARAppNFTOSG.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3402,6 +3503,7 @@
 				4AF96F3E1B5F5385001BFEB5 /* libc++.dylib in Frameworks */,
 				4A920D721CC87F5B0065B301 /* Security.framework in Frameworks */,
 				4A920D621CC87EBE0065B301 /* libcurl.a in Frameworks */,
+				8B217217F4B004C6F26DF6E7 /* libPods-ARAppNFT.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3409,6 +3511,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				90FC946D0E57F9D496B218A4 /* libPods-ARgsub_es.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3437,6 +3540,7 @@
 				4A941D221AE5DCDF000FA802 /* libAR.a in Frameworks */,
 				4AF6F06713DD27C700F77FB0 /* AudioToolbox.framework in Frameworks */,
 				4A8393B7152165C200D8FE60 /* Accelerate.framework in Frameworks */,
+				8C5CB36053BC81185150F77C /* libPods-ARApp2.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3566,6 +3670,7 @@
 				4A875C3F1B60519E002A00A1 /* libosgdb_serializers_osgsim.a in Frameworks */,
 				4A875C0A1B60519E002A00A1 /* libosgdb_bsp.a in Frameworks */,
 				4A875C1A1B60519E002A00A1 /* libosgdb_dw.a in Frameworks */,
+				CA9836AD0B4503CEAEAA3887 /* libPods-ARAppOSG.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3591,6 +3696,7 @@
 				4A4BAAB81B745B210012B77D /* libAR.a in Frameworks */,
 				4A4BAAB91B745B210012B77D /* AudioToolbox.framework in Frameworks */,
 				4A4BAABA1B745B210012B77D /* Accelerate.framework in Frameworks */,
+				5FCB3FA39900829E902C9449 /* libPods-ARAppCameraTest.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3617,6 +3723,7 @@
 				4AC2E639118ED63E00CC4F55 /* CoreMedia.framework in Frameworks */,
 				4AC2E675118ED68C00CC4F55 /* CoreVideo.framework in Frameworks */,
 				4AF6F06613DD27C600F77FB0 /* AudioToolbox.framework in Frameworks */,
+				9782D662DD706EE2282350A9 /* libPods-ARApp.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3645,6 +3752,7 @@
 				4A941D241AE5DCE0000FA802 /* libAR.a in Frameworks */,
 				4A5BAA8413D82BC000C8D5E7 /* CoreVideo.framework in Frameworks */,
 				4A8393B9152165C500D8FE60 /* Accelerate.framework in Frameworks */,
+				6EDDFCB058E97F3AD1A41D39 /* libPods-ARAppMovie.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3652,6 +3760,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B78E6B90B83FFA4FC8F2C190 /* libPods-ARgsub_es2.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3659,6 +3768,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3E816A1EBBF203E800F6299E /* libPods-ARICP.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3666,6 +3776,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D46FF784AC5443DAC1138444 /* libPods-AR2.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3673,6 +3784,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				75A89B8FEA7C66AC423367B2 /* libPods-KPM.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3680,6 +3792,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				38E6932C477C6DC9A2FF7CF5 /* libPods-ARUtil.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3687,6 +3800,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6611F99E0E93362B12E92487 /* libPods-ARvideo.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3694,6 +3808,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1F5B549653532B41AC5E7BC3 /* libPods-ARosg.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3720,6 +3835,7 @@
 				4AEAEBDB17A744AA00F61E33 /* CoreMedia.framework in Frameworks */,
 				4AEAEBDC17A744AA00F61E33 /* CoreVideo.framework in Frameworks */,
 				4AEAEBE017A744AA00F61E33 /* AudioToolbox.framework in Frameworks */,
+				747F292FA3226F24BEBE4E26 /* libPods-ARAppES1.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3727,6 +3843,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E2D55639ED37EF5F4D6B33AC /* libPods-AR.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3734,6 +3851,23 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				744FC0072DD20E6A30A6540F /* libPods-ARMulti.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E4E422E6D3DDA7CE9537D65D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8F4C74FE40E84860688724E1 /* libPods-Eden.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F69CF9B822F49C783BC8ED65 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CAEF4B17E3EB7E5E34E36865 /* libPods-ARWrapper.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -6374,6 +6508,8 @@
 				4A77EBA21162425300E4C0D2 /* Xcode */,
 				78BBCC8908E4A79900AEE575 /* System Frameworks & Libraries */,
 				78BB3F8708E486DB00D7CA2D /* Products */,
+				90A75FCA491043CA545DCB64 /* Pods */,
+				932E266965B138E70691D1F6 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -6583,6 +6719,100 @@
 			name = "System Frameworks & Libraries";
 			sourceTree = "<group>";
 		};
+		90A75FCA491043CA545DCB64 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				665610DE89ECA391A5873250 /* Pods-AR.debug.xcconfig */,
+				50AE9896682C3316EF0E3766 /* Pods-AR.release.xcconfig */,
+				1238701031AA72E70330DE74 /* Pods-AR.distribution.xcconfig */,
+				510D12B714A3B8A10568159F /* Pods-AR2.debug.xcconfig */,
+				462F2761B3A986E87AB3C7FA /* Pods-AR2.release.xcconfig */,
+				31692EC327E560DA1C9C3D09 /* Pods-AR2.distribution.xcconfig */,
+				AB8F24024660E0F9AF275B6B /* Pods-ARApp.debug.xcconfig */,
+				52649A94BF07555A39124494 /* Pods-ARApp.release.xcconfig */,
+				259E8A01BC2A9779543A38DB /* Pods-ARApp.distribution.xcconfig */,
+				0CC4A6BA887870F1EFEF6152 /* Pods-ARApp2.debug.xcconfig */,
+				273760C0D8A00ACA9755415D /* Pods-ARApp2.release.xcconfig */,
+				1B26F8E54C0FE4FBF89E7220 /* Pods-ARApp2.distribution.xcconfig */,
+				108AC06EC5B4019F4107F94D /* Pods-ARAppCameraTest.debug.xcconfig */,
+				6288E63D2B02CEDCBAB728FD /* Pods-ARAppCameraTest.release.xcconfig */,
+				80744349C5EF13135B9DCCC3 /* Pods-ARAppCameraTest.distribution.xcconfig */,
+				2404D3FDC89A2EA5D2E5C357 /* Pods-ARAppES1.debug.xcconfig */,
+				16F29BD6A841D19F874474A1 /* Pods-ARAppES1.release.xcconfig */,
+				067BDDFDBD2AA594EF30BF9B /* Pods-ARAppES1.distribution.xcconfig */,
+				7BA132CD918D3D47ADEADCE7 /* Pods-ARAppMovie.debug.xcconfig */,
+				EA0B0F42E8BDD10361C872DD /* Pods-ARAppMovie.release.xcconfig */,
+				35B54BC1BD89A1AE314C15ED /* Pods-ARAppMovie.distribution.xcconfig */,
+				D3A51BB4BE6FE5D012482033 /* Pods-ARAppNFT.debug.xcconfig */,
+				97D7D6D9691628D6343E4272 /* Pods-ARAppNFT.release.xcconfig */,
+				5EF06534247E4E98F0245499 /* Pods-ARAppNFT.distribution.xcconfig */,
+				EC8B2CE87506986F0E98C168 /* Pods-ARAppNFTOSG.debug.xcconfig */,
+				5C92B0E65DAC3BACC4370429 /* Pods-ARAppNFTOSG.release.xcconfig */,
+				A9EB79E53280F8DF46A03FBC /* Pods-ARAppNFTOSG.distribution.xcconfig */,
+				E4229062DE26582F87278436 /* Pods-ARAppOSG.debug.xcconfig */,
+				1456CCD72524F7F2C0047C32 /* Pods-ARAppOSG.release.xcconfig */,
+				096E5F060C39A84B08660495 /* Pods-ARAppOSG.distribution.xcconfig */,
+				94762A841E4A179EE12A6AE8 /* Pods-ARICP.debug.xcconfig */,
+				83D113721B0C8298B7473FF8 /* Pods-ARICP.release.xcconfig */,
+				EFC9906B398D2ECCB1378B7A /* Pods-ARICP.distribution.xcconfig */,
+				4CDCB51013C5A1AF3657981E /* Pods-ARMulti.debug.xcconfig */,
+				64ECD311BC4E3C84E7989E93 /* Pods-ARMulti.release.xcconfig */,
+				51DF3987B19876BFE785FD8C /* Pods-ARMulti.distribution.xcconfig */,
+				274FAE14E0401B51618ACA80 /* Pods-ARUtil.debug.xcconfig */,
+				B49BC77199279B58ADBDA1F2 /* Pods-ARUtil.release.xcconfig */,
+				A9D063C226622DA2B6DA2303 /* Pods-ARUtil.distribution.xcconfig */,
+				98B1D9244BA02D8A5DEE8BD4 /* Pods-ARWrapper.debug.xcconfig */,
+				3E3183A02DB45AE600A6A71C /* Pods-ARWrapper.release.xcconfig */,
+				D9EF4B750885C1DCEB54251B /* Pods-ARWrapper.distribution.xcconfig */,
+				30166430E38CC36681480B57 /* Pods-ARgsub_es.debug.xcconfig */,
+				1537853F067A54D0054AA50F /* Pods-ARgsub_es.release.xcconfig */,
+				BE8B61CA48F87F679446D784 /* Pods-ARgsub_es.distribution.xcconfig */,
+				77BD5F5D5585C15FFC17F02A /* Pods-ARgsub_es2.debug.xcconfig */,
+				25FEBFA390620300DABDD696 /* Pods-ARgsub_es2.release.xcconfig */,
+				88D088A85358C8880CE5D3A9 /* Pods-ARgsub_es2.distribution.xcconfig */,
+				8300509E2CC300CDC2143156 /* Pods-ARosg.debug.xcconfig */,
+				6296F445EDBC7E777643E09C /* Pods-ARosg.release.xcconfig */,
+				E156B9B38C86A9D997332755 /* Pods-ARosg.distribution.xcconfig */,
+				9F95D492F4C634DFB1380446 /* Pods-ARvideo.debug.xcconfig */,
+				E118490918DF4076D4C945AD /* Pods-ARvideo.release.xcconfig */,
+				238C05A301FE67C75DA4B2A5 /* Pods-ARvideo.distribution.xcconfig */,
+				39EFAE87941BE53BE0D6E963 /* Pods-Eden.debug.xcconfig */,
+				5421664FD69EF873C08ACDA2 /* Pods-Eden.release.xcconfig */,
+				E89388A82ADED1788E971580 /* Pods-Eden.distribution.xcconfig */,
+				5FCAB3670DF36FAE666111AC /* Pods-KPM.debug.xcconfig */,
+				901BA19F5D37E92F9EF310F2 /* Pods-KPM.release.xcconfig */,
+				C30EA82935EF2864C249AF14 /* Pods-KPM.distribution.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		932E266965B138E70691D1F6 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				9E97104CAFA83DEC1A9B1E9F /* libPods-AR.a */,
+				B817B14DCAAE87C73700ABB0 /* libPods-AR2.a */,
+				CE6A700B0DCB845D51490A07 /* libPods-ARApp.a */,
+				F2A522FDD0385C60E5D89BC9 /* libPods-ARApp2.a */,
+				3A828363CB7C660EE97FC593 /* libPods-ARAppCameraTest.a */,
+				8C3CDBB24EFF447C89DD657B /* libPods-ARAppES1.a */,
+				ADDCE959577DBBA4ABCD8353 /* libPods-ARAppMovie.a */,
+				A17AA99EDA84995D481DD521 /* libPods-ARAppNFT.a */,
+				D0B3280973DB9CCCD33C4DEA /* libPods-ARAppNFTOSG.a */,
+				C5C590E15211A63EA70C9A40 /* libPods-ARAppOSG.a */,
+				FD5CB6D84901C9132AB5F367 /* libPods-ARICP.a */,
+				3531F419E4121C4C7BA5F1E9 /* libPods-ARMulti.a */,
+				C972E307767C097BDB096B2D /* libPods-ARUtil.a */,
+				DB2BFCC57DBA8723521E654D /* libPods-ARWrapper.a */,
+				AB1762FAFDC44C988F658806 /* libPods-ARgsub_es.a */,
+				4DE98304A92224214257FECF /* libPods-ARgsub_es2.a */,
+				76DBC584DD058879ED0B4801 /* libPods-ARosg.a */,
+				393C8F3516EE71E9A075B227 /* libPods-ARvideo.a */,
+				9C7779F2897B8BFFBFA324B8 /* libPods-Eden.a */,
+				35A2669362BE481A94CA9CA0 /* libPods-KPM.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
@@ -6622,10 +6852,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4A1302F815BDFF14003A441C /* Build configuration list for PBXNativeTarget "ARAppNFTOSG" */;
 			buildPhases = (
+				54F9C5FC9E767EA30FC039CC /* [CP] Check Pods Manifest.lock */,
 				4A1302B215BDFF14003A441C /* Resources */,
 				4A1302C015BDFF14003A441C /* Sources */,
 				4A1302CC15BDFF14003A441C /* Frameworks */,
 				4A1302F715BDFF14003A441C /* ShellScript */,
+				C1CEB729E2B95FC872FF1945 /* [CP] Embed Pods Frameworks */,
+				F41707271DDEA4CBA251BB3E /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -6649,10 +6882,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4A13033015BDFF17003A441C /* Build configuration list for PBXNativeTarget "ARAppNFT" */;
 			buildPhases = (
+				CBCDE545905A47043EC0516C /* [CP] Check Pods Manifest.lock */,
 				4A13030415BDFF17003A441C /* Resources */,
 				4A13031215BDFF17003A441C /* Sources */,
 				4A13031D15BDFF17003A441C /* Frameworks */,
 				4A13032F15BDFF17003A441C /* ShellScript */,
+				B20D1DB3DAA30879E1D2B534 /* [CP] Embed Pods Frameworks */,
+				15AF5B40109361D939350FF7 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -6675,9 +6911,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4A15ED2E09E35F0800159C62 /* Build configuration list for PBXNativeTarget "ARgsub_es" */;
 			buildPhases = (
+				A1D13AA6DFF1FF3F0607F7DD /* [CP] Check Pods Manifest.lock */,
 				4A15ED2509E35F0800159C62 /* Headers */,
 				4A15ED2609E35F0800159C62 /* Sources */,
 				4A15ED2D09E35F0800159C62 /* Frameworks */,
+				95C797B69784BDEF5F4AFEB2 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -6693,10 +6931,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4A2F72F7117840A600F35FA7 /* Build configuration list for PBXNativeTarget "ARApp2" */;
 			buildPhases = (
+				6C4BA421E9E56860E683215E /* [CP] Check Pods Manifest.lock */,
 				4A2F72E0117840A600F35FA7 /* Resources */,
 				4A2F72E6117840A600F35FA7 /* Sources */,
 				4A2F72EC117840A600F35FA7 /* Frameworks */,
 				4A2F72F6117840A600F35FA7 /* ShellScript */,
+				AFF3D2C03907DEB02C27670B /* [CP] Embed Pods Frameworks */,
+				1C961DEEA53A056E1A488431 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -6716,10 +6957,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4A3D42C0130D1F2500E64C33 /* Build configuration list for PBXNativeTarget "ARAppOSG" */;
 			buildPhases = (
+				1D109A7AB211430D3701832B /* [CP] Check Pods Manifest.lock */,
 				4A3D42A2130D1F2500E64C33 /* Resources */,
 				4A3D42A8130D1F2500E64C33 /* Sources */,
 				4A3D42B0130D1F2500E64C33 /* Frameworks */,
 				4A3D42BF130D1F2500E64C33 /* ShellScript */,
+				B1E904DFA3546DCE7E9297D4 /* [CP] Embed Pods Frameworks */,
+				182CDF897C11390449725FF8 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -6740,9 +6984,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4A4BAABC1B745B210012B77D /* Build configuration list for PBXNativeTarget "ARAppCameraTest" */;
 			buildPhases = (
+				51A4B1263A583EC51FB88F34 /* [CP] Check Pods Manifest.lock */,
 				4A4BAA831B745B210012B77D /* Resources */,
 				4A4BAA9D1B745B210012B77D /* Sources */,
 				4A4BAAA91B745B210012B77D /* Frameworks */,
+				FF1B96EB1133E5BB0449EFAE /* [CP] Embed Pods Frameworks */,
+				B5D249ACF474A0012EABB683 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -6761,10 +7008,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4A50D7031164E16E00ED169B /* Build configuration list for PBXNativeTarget "ARApp" */;
 			buildPhases = (
+				9DF84E05BCA0429A6DD72A68 /* [CP] Check Pods Manifest.lock */,
 				4A50D6F91164E16D00ED169B /* Resources */,
 				4A50D6FA1164E16D00ED169B /* Sources */,
 				4A50D6FB1164E16D00ED169B /* Frameworks */,
 				4A2F72A61177662000F35FA7 /* ShellScript */,
+				3122E7FCA625B97B7F5026EE /* [CP] Embed Pods Frameworks */,
+				7F8E7CC74E115DC948447FAE /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -6783,10 +7033,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4A5BAA8913D82BC000C8D5E7 /* Build configuration list for PBXNativeTarget "ARAppMovie" */;
 			buildPhases = (
+				CE57418399A373436A5A148E /* [CP] Check Pods Manifest.lock */,
 				4A5BAA6013D82BC000C8D5E7 /* Resources */,
 				4A5BAA6E13D82BC000C8D5E7 /* Sources */,
 				4A5BAA7813D82BC000C8D5E7 /* Frameworks */,
 				4A5BAA8813D82BC000C8D5E7 /* ShellScript */,
+				A9A08CE1F49F42AE9A250B7E /* [CP] Embed Pods Frameworks */,
+				FF6961A69CE7DEA4C7F49B6C /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -6806,9 +7059,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4A6C5E4C1794F4E700061A08 /* Build configuration list for PBXNativeTarget "ARgsub_es2" */;
 			buildPhases = (
+				C67679C2C441105BE177E694 /* [CP] Check Pods Manifest.lock */,
 				4A6C5E461794F4E700061A08 /* Headers */,
 				4A6C5E481794F4E700061A08 /* Sources */,
 				4A6C5E4B1794F4E700061A08 /* Frameworks */,
+				C62918EE656E8462005ACE4F /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -6824,9 +7079,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4A8689F91AE5D83A00AFC5F7 /* Build configuration list for PBXNativeTarget "ARICP" */;
 			buildPhases = (
+				DDC2894E8E004BD558A5640A /* [CP] Check Pods Manifest.lock */,
 				4A86897A1AE5D83A00AFC5F7 /* Sources */,
 				4A8689F71AE5D83A00AFC5F7 /* Frameworks */,
 				4A8689F81AE5D83A00AFC5F7 /* CopyFiles */,
+				17F99A60C50688C386E39B75 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -6843,9 +7100,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4A868A7E1AE5D83C00AFC5F7 /* Build configuration list for PBXNativeTarget "AR2" */;
 			buildPhases = (
+				D0D97344B7DE6FD4EF704040 /* [CP] Check Pods Manifest.lock */,
 				4A8689FF1AE5D83C00AFC5F7 /* Sources */,
 				4A868A7C1AE5D83C00AFC5F7 /* Frameworks */,
 				4A868A7D1AE5D83C00AFC5F7 /* CopyFiles */,
+				A02AC94DDD6DA97E86489FAE /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -6861,9 +7120,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4A941B501AE5D8D9000FA802 /* Build configuration list for PBXNativeTarget "KPM" */;
 			buildPhases = (
+				3CE5D0BD99808DC44B2294D9 /* [CP] Check Pods Manifest.lock */,
 				4A941AD11AE5D8D9000FA802 /* Sources */,
 				4A941B4E1AE5D8D9000FA802 /* Frameworks */,
 				4A941B4F1AE5D8D9000FA802 /* CopyFiles */,
+				2BF2C13923D2E3D4BE4EBC88 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -6879,9 +7140,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4A941BD51AE5D8DC000FA802 /* Build configuration list for PBXNativeTarget "ARUtil" */;
 			buildPhases = (
+				8E3C8C508E03641362CF8C46 /* [CP] Check Pods Manifest.lock */,
 				4A941B561AE5D8DC000FA802 /* Sources */,
 				4A941BD31AE5D8DC000FA802 /* Frameworks */,
 				4A941BD41AE5D8DC000FA802 /* CopyFiles */,
+				6B8762D70E36F98B81A9ED72 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -6898,9 +7161,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4A941C5A1AE5D923000FA802 /* Build configuration list for PBXNativeTarget "ARvideo" */;
 			buildPhases = (
+				B36B1978E93F555C75BE49C5 /* [CP] Check Pods Manifest.lock */,
 				4A941BDB1AE5D923000FA802 /* Sources */,
 				4A941C581AE5D923000FA802 /* Frameworks */,
 				4A941C591AE5D923000FA802 /* CopyFiles */,
+				BB0EDFEAD9D0D3A26C0C1071 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -6916,7 +7181,10 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4AC36B6E113E654400C86F19 /* Build configuration list for PBXNativeTarget "Eden" */;
 			buildPhases = (
+				E7DEB91008AFEDFC92E2D8F8 /* [CP] Check Pods Manifest.lock */,
 				4AC36B65113E654400C86F19 /* Sources */,
+				E4E422E6D3DDA7CE9537D65D /* Frameworks */,
+				CA6275204EFF83DFE03B3D02 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -6932,9 +7200,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4ACE00AA130B3F16009D1DA0 /* Build configuration list for PBXNativeTarget "ARosg" */;
 			buildPhases = (
+				243EB22643FDF1AD3796C9F7 /* [CP] Check Pods Manifest.lock */,
 				4ACE00A4130B3F16009D1DA0 /* Headers */,
 				4ACE00A6130B3F16009D1DA0 /* Sources */,
 				4ACE00A9130B3F16009D1DA0 /* Frameworks */,
+				9F60D4009A71E80D3F18047D /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -6950,10 +7220,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4AEAEBE217A744AA00F61E33 /* Build configuration list for PBXNativeTarget "ARAppES1" */;
 			buildPhases = (
+				08732E7835988942979554A2 /* [CP] Check Pods Manifest.lock */,
 				4AEAEBB017A744AA00F61E33 /* Resources */,
 				4AEAEBCB17A744AA00F61E33 /* Sources */,
 				4AEAEBD117A744AA00F61E33 /* Frameworks */,
 				4AEAEBE117A744AA00F61E33 /* ShellScript */,
+				976BB5310A926B8BF62FDB89 /* [CP] Embed Pods Frameworks */,
+				56710527DDB5C800DF09C27D /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -6972,9 +7245,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4AEB26491804A42B002290C5 /* Build configuration list for PBXNativeTarget "AR" */;
 			buildPhases = (
+				0D859F50CD051695CFF51FBF /* [CP] Check Pods Manifest.lock */,
 				4AEB26251804A42A002290C5 /* Sources */,
 				4AEB26261804A42A002290C5 /* Frameworks */,
 				4AEB26271804A42A002290C5 /* CopyFiles */,
+				04697220B372B6E72E939A48 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -6990,7 +7265,10 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4AEB27041804A8D8002290C5 /* Build configuration list for PBXNativeTarget "ARWrapper" */;
 			buildPhases = (
+				3FC8D202916973B16FCEDB95 /* [CP] Check Pods Manifest.lock */,
 				4AEB26FE1804A8D8002290C5 /* Sources */,
+				F69CF9B822F49C783BC8ED65 /* Frameworks */,
+				33AAED2CF31B1879BC170C75 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -7014,9 +7292,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4AF79D810A26A39500E900EC /* Build configuration list for PBXNativeTarget "ARMulti" */;
 			buildPhases = (
+				F78F0DF8F2E6DB8B6066F9A8 /* [CP] Check Pods Manifest.lock */,
 				4AF79D780A26A39500E900EC /* Headers */,
 				4AF79D790A26A39500E900EC /* Sources */,
 				4AF79D800A26A39500E900EC /* Frameworks */,
+				827F83D818DFFA498A0A552D /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -7343,6 +7623,216 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		04697220B372B6E72E939A48 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-AR/Pods-AR-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		08732E7835988942979554A2 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		0D859F50CD051695CFF51FBF /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		15AF5B40109361D939350FF7 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ARAppNFT/Pods-ARAppNFT-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		17F99A60C50688C386E39B75 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ARICP/Pods-ARICP-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		182CDF897C11390449725FF8 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ARAppOSG/Pods-ARAppOSG-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		1C961DEEA53A056E1A488431 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ARApp2/Pods-ARApp2-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		1D109A7AB211430D3701832B /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		243EB22643FDF1AD3796C9F7 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		2BF2C13923D2E3D4BE4EBC88 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-KPM/Pods-KPM-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		3122E7FCA625B97B7F5026EE /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ARApp/Pods-ARApp-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		33AAED2CF31B1879BC170C75 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ARWrapper/Pods-ARWrapper-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		3CE5D0BD99808DC44B2294D9 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		3FC8D202916973B16FCEDB95 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
 		4A1302F715BDFF14003A441C /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -7450,6 +7940,516 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "if [[ \"$CONFIGURATION\" = \"Distribution\" ]]\nthen\n\tif [ ! -d \"dist\" ] ; then mkdir dist; fi\n\tcd dist\n\tmkdir Payload\n\tcp -rp \"$TARGET_BUILD_DIR/$WRAPPER_NAME\" Payload\n\tcp $SRCROOT/examples/$PRODUCT_NAME/iTunesArtwork .\n\tzip -r \"$PRODUCT_NAME.zip\" iTunesArtwork Payload\n\tmv \"$PRODUCT_NAME.zip\" \"$PRODUCT_NAME.ipa\"\n\trm -rf iTunesArtwork Payload\nfi\n";
+		};
+		51A4B1263A583EC51FB88F34 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		54F9C5FC9E767EA30FC039CC /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		56710527DDB5C800DF09C27D /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ARAppES1/Pods-ARAppES1-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		6B8762D70E36F98B81A9ED72 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ARUtil/Pods-ARUtil-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		6C4BA421E9E56860E683215E /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		7F8E7CC74E115DC948447FAE /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ARApp/Pods-ARApp-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		827F83D818DFFA498A0A552D /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ARMulti/Pods-ARMulti-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8E3C8C508E03641362CF8C46 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		95C797B69784BDEF5F4AFEB2 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ARgsub_es/Pods-ARgsub_es-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		976BB5310A926B8BF62FDB89 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ARAppES1/Pods-ARAppES1-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9DF84E05BCA0429A6DD72A68 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		9F60D4009A71E80D3F18047D /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ARosg/Pods-ARosg-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A02AC94DDD6DA97E86489FAE /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-AR2/Pods-AR2-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A1D13AA6DFF1FF3F0607F7DD /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		A9A08CE1F49F42AE9A250B7E /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ARAppMovie/Pods-ARAppMovie-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		AFF3D2C03907DEB02C27670B /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ARApp2/Pods-ARApp2-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B1E904DFA3546DCE7E9297D4 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ARAppOSG/Pods-ARAppOSG-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B20D1DB3DAA30879E1D2B534 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ARAppNFT/Pods-ARAppNFT-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B36B1978E93F555C75BE49C5 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		B5D249ACF474A0012EABB683 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ARAppCameraTest/Pods-ARAppCameraTest-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		BB0EDFEAD9D0D3A26C0C1071 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ARvideo/Pods-ARvideo-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C1CEB729E2B95FC872FF1945 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ARAppNFTOSG/Pods-ARAppNFTOSG-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C62918EE656E8462005ACE4F /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ARgsub_es2/Pods-ARgsub_es2-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C67679C2C441105BE177E694 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		CA6275204EFF83DFE03B3D02 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Eden/Pods-Eden-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		CBCDE545905A47043EC0516C /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		CE57418399A373436A5A148E /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		D0D97344B7DE6FD4EF704040 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		DDC2894E8E004BD558A5640A /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		E7DEB91008AFEDFC92E2D8F8 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		F41707271DDEA4CBA251BB3E /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ARAppNFTOSG/Pods-ARAppNFTOSG-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F78F0DF8F2E6DB8B6066F9A8 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		FF1B96EB1133E5BB0449EFAE /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ARAppCameraTest/Pods-ARAppCameraTest-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FF6961A69CE7DEA4C7F49B6C /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ARAppMovie/Pods-ARAppMovie-resources.sh\"\n";
+			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
 
@@ -8294,6 +9294,7 @@
 /* Begin XCBuildConfiguration section */
 		4A1302F915BDFF14003A441C /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = EC8B2CE87506986F0E98C168 /* Pods-ARAppNFTOSG.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
@@ -8314,6 +9315,7 @@
 		};
 		4A1302FA15BDFF14003A441C /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5C92B0E65DAC3BACC4370429 /* Pods-ARAppNFTOSG.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
@@ -8334,6 +9336,7 @@
 		};
 		4A1302FB15BDFF14003A441C /* Distribution */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A9EB79E53280F8DF46A03FBC /* Pods-ARAppNFTOSG.distribution.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = examples/ARAppOSG/dist.plist;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
@@ -8357,6 +9360,7 @@
 		};
 		4A13033115BDFF17003A441C /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D3A51BB4BE6FE5D012482033 /* Pods-ARAppNFT.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -8375,6 +9379,7 @@
 		};
 		4A13033215BDFF17003A441C /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 97D7D6D9691628D6343E4272 /* Pods-ARAppNFT.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -8393,6 +9398,7 @@
 		};
 		4A13033315BDFF17003A441C /* Distribution */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5EF06534247E4E98F0245499 /* Pods-ARAppNFT.distribution.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = examples/ARApp2/dist.plist;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
@@ -8414,6 +9420,7 @@
 		};
 		4A15ED2F09E35F0800159C62 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 30166430E38CC36681480B57 /* Pods-ARgsub_es.debug.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -8429,6 +9436,7 @@
 		};
 		4A15ED3009E35F0800159C62 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1537853F067A54D0054AA50F /* Pods-ARgsub_es.release.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -8472,6 +9480,7 @@
 		};
 		4A2F72F8117840A600F35FA7 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0CC4A6BA887870F1EFEF6152 /* Pods-ARApp2.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -8487,6 +9496,7 @@
 		};
 		4A2F72F9117840A600F35FA7 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 273760C0D8A00ACA9755415D /* Pods-ARApp2.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -8502,6 +9512,7 @@
 		};
 		4A2F72FA117840A600F35FA7 /* Distribution */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1B26F8E54C0FE4FBF89E7220 /* Pods-ARApp2.distribution.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = examples/ARApp2/dist.plist;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
@@ -8519,6 +9530,7 @@
 		};
 		4A3D42C1130D1F2500E64C33 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E4229062DE26582F87278436 /* Pods-ARAppOSG.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
@@ -8535,6 +9547,7 @@
 		};
 		4A3D42C2130D1F2500E64C33 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1456CCD72524F7F2C0047C32 /* Pods-ARAppOSG.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
@@ -8551,6 +9564,7 @@
 		};
 		4A3D42C3130D1F2500E64C33 /* Distribution */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 096E5F060C39A84B08660495 /* Pods-ARAppOSG.distribution.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = examples/ARAppOSG/dist.plist;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
@@ -8570,6 +9584,7 @@
 		};
 		4A4BAABD1B745B210012B77D /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 108AC06EC5B4019F4107F94D /* Pods-ARAppCameraTest.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -8586,6 +9601,7 @@
 		};
 		4A4BAABE1B745B210012B77D /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6288E63D2B02CEDCBAB728FD /* Pods-ARAppCameraTest.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -8602,6 +9618,7 @@
 		};
 		4A4BAABF1B745B210012B77D /* Distribution */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 80744349C5EF13135B9DCCC3 /* Pods-ARAppCameraTest.distribution.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = examples/ARAppCameraTest/dist.plist;
@@ -8620,6 +9637,7 @@
 		};
 		4A50D7001164E16D00ED169B /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = AB8F24024660E0F9AF275B6B /* Pods-ARApp.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -8635,6 +9653,7 @@
 		};
 		4A50D7011164E16D00ED169B /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 52649A94BF07555A39124494 /* Pods-ARApp.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -8650,6 +9669,7 @@
 		};
 		4A50D7021164E16D00ED169B /* Distribution */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 259E8A01BC2A9779543A38DB /* Pods-ARApp.distribution.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = examples/ARApp/dist.plist;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
@@ -8667,6 +9687,7 @@
 		};
 		4A5BAA8A13D82BC000C8D5E7 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7BA132CD918D3D47ADEADCE7 /* Pods-ARAppMovie.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -8681,6 +9702,7 @@
 		};
 		4A5BAA8B13D82BC000C8D5E7 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = EA0B0F42E8BDD10361C872DD /* Pods-ARAppMovie.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -8695,6 +9717,7 @@
 		};
 		4A5BAA8C13D82BC000C8D5E7 /* Distribution */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 35B54BC1BD89A1AE314C15ED /* Pods-ARAppMovie.distribution.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = examples/ARAppMovie/dist.plist;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
@@ -8712,6 +9735,7 @@
 		};
 		4A6C5E4D1794F4E700061A08 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 77BD5F5D5585C15FFC17F02A /* Pods-ARgsub_es2.debug.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -8727,6 +9751,7 @@
 		};
 		4A6C5E4E1794F4E700061A08 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 25FEBFA390620300DABDD696 /* Pods-ARgsub_es2.release.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -8742,6 +9767,7 @@
 		};
 		4A6C5E4F1794F4E700061A08 /* Distribution */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 88D088A85358C8880CE5D3A9 /* Pods-ARgsub_es2.distribution.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -8758,6 +9784,7 @@
 		};
 		4A8689FA1AE5D83A00AFC5F7 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 94762A841E4A179EE12A6AE8 /* Pods-ARICP.debug.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -8773,6 +9800,7 @@
 		};
 		4A8689FB1AE5D83A00AFC5F7 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 83D113721B0C8298B7473FF8 /* Pods-ARICP.release.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -8788,6 +9816,7 @@
 		};
 		4A8689FC1AE5D83A00AFC5F7 /* Distribution */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = EFC9906B398D2ECCB1378B7A /* Pods-ARICP.distribution.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -8804,6 +9833,7 @@
 		};
 		4A868A7F1AE5D83C00AFC5F7 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 510D12B714A3B8A10568159F /* Pods-AR2.debug.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -8819,6 +9849,7 @@
 		};
 		4A868A801AE5D83C00AFC5F7 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 462F2761B3A986E87AB3C7FA /* Pods-AR2.release.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -8834,6 +9865,7 @@
 		};
 		4A868A811AE5D83C00AFC5F7 /* Distribution */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 31692EC327E560DA1C9C3D09 /* Pods-AR2.distribution.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -8850,6 +9882,7 @@
 		};
 		4A941B511AE5D8D9000FA802 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5FCAB3670DF36FAE666111AC /* Pods-KPM.debug.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -8871,6 +9904,7 @@
 		};
 		4A941B521AE5D8D9000FA802 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 901BA19F5D37E92F9EF310F2 /* Pods-KPM.release.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -8892,6 +9926,7 @@
 		};
 		4A941B531AE5D8D9000FA802 /* Distribution */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C30EA82935EF2864C249AF14 /* Pods-KPM.distribution.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -8914,6 +9949,7 @@
 		};
 		4A941BD61AE5D8DC000FA802 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 274FAE14E0401B51618ACA80 /* Pods-ARUtil.debug.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -8929,6 +9965,7 @@
 		};
 		4A941BD71AE5D8DC000FA802 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B49BC77199279B58ADBDA1F2 /* Pods-ARUtil.release.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -8944,6 +9981,7 @@
 		};
 		4A941BD81AE5D8DC000FA802 /* Distribution */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A9D063C226622DA2B6DA2303 /* Pods-ARUtil.distribution.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -8960,6 +9998,7 @@
 		};
 		4A941C5B1AE5D923000FA802 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9F95D492F4C634DFB1380446 /* Pods-ARvideo.debug.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -8975,6 +10014,7 @@
 		};
 		4A941C5C1AE5D923000FA802 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E118490918DF4076D4C945AD /* Pods-ARvideo.release.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -8990,6 +10030,7 @@
 		};
 		4A941C5D1AE5D923000FA802 /* Distribution */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 238C05A301FE67C75DA4B2A5 /* Pods-ARvideo.distribution.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -9071,6 +10112,7 @@
 		};
 		4A999E3E0E3FFB2300C5E093 /* Distribution */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = BE8B61CA48F87F679446D784 /* Pods-ARgsub_es.distribution.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -9087,6 +10129,7 @@
 		};
 		4A999E3F0E3FFB2300C5E093 /* Distribution */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 51DF3987B19876BFE785FD8C /* Pods-ARMulti.distribution.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -9110,6 +10153,7 @@
 		};
 		4AC36B6F113E654400C86F19 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 39EFAE87941BE53BE0D6E963 /* Pods-Eden.debug.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -9125,6 +10169,7 @@
 		};
 		4AC36B70113E654400C86F19 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5421664FD69EF873C08ACDA2 /* Pods-Eden.release.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -9141,6 +10186,7 @@
 		};
 		4AC36B71113E654400C86F19 /* Distribution */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E89388A82ADED1788E971580 /* Pods-Eden.distribution.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -9158,6 +10204,7 @@
 		};
 		4ACE00AB130B3F16009D1DA0 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8300509E2CC300CDC2143156 /* Pods-ARosg.debug.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -9173,6 +10220,7 @@
 		};
 		4ACE00AC130B3F16009D1DA0 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6296F445EDBC7E777643E09C /* Pods-ARosg.release.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -9188,6 +10236,7 @@
 		};
 		4ACE00AD130B3F16009D1DA0 /* Distribution */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E156B9B38C86A9D997332755 /* Pods-ARosg.distribution.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -9218,6 +10267,7 @@
 		};
 		4AEAEBE317A744AA00F61E33 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2404D3FDC89A2EA5D2E5C357 /* Pods-ARAppES1.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -9232,6 +10282,7 @@
 		};
 		4AEAEBE417A744AA00F61E33 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 16F29BD6A841D19F874474A1 /* Pods-ARAppES1.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -9246,6 +10297,7 @@
 		};
 		4AEAEBE517A744AA00F61E33 /* Distribution */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 067BDDFDBD2AA594EF30BF9B /* Pods-ARAppES1.distribution.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = examples/ARAppES1/dist.plist;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
@@ -9263,6 +10315,7 @@
 		};
 		4AEB264A1804A42B002290C5 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 665610DE89ECA391A5873250 /* Pods-AR.debug.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -9278,6 +10331,7 @@
 		};
 		4AEB264B1804A42B002290C5 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 50AE9896682C3316EF0E3766 /* Pods-AR.release.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -9293,6 +10347,7 @@
 		};
 		4AEB264C1804A42B002290C5 /* Distribution */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1238701031AA72E70330DE74 /* Pods-AR.distribution.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -9309,6 +10364,7 @@
 		};
 		4AEB27051804A8D8002290C5 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 98B1D9244BA02D8A5DEE8BD4 /* Pods-ARWrapper.debug.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DEPLOYMENT_POSTPROCESSING = YES;
@@ -9335,6 +10391,7 @@
 		};
 		4AEB27061804A8D8002290C5 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3E3183A02DB45AE600A6A71C /* Pods-ARWrapper.release.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DEPLOYMENT_POSTPROCESSING = YES;
@@ -9362,6 +10419,7 @@
 		};
 		4AEB27071804A8D8002290C5 /* Distribution */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D9EF4B750885C1DCEB54251B /* Pods-ARWrapper.distribution.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DEPLOYMENT_POSTPROCESSING = YES;
@@ -9389,6 +10447,7 @@
 		};
 		4AF79D820A26A39500E900EC /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4CDCB51013C5A1AF3657981E /* Pods-ARMulti.debug.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";
@@ -9404,6 +10463,7 @@
 		};
 		4AF79D830A26A39500E900EC /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 64ECD311BC4E3C84E7989E93 /* Pods-ARMulti.release.xcconfig */;
 			buildSettings = {
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = "$(SRCROOT)";

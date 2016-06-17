@@ -1,0 +1,58 @@
+{
+  "name": "augus",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest",
+    "test-nocache": "jest --no-cache"
+  },
+  "dependencies": {
+    "react": "15.0.2",
+    "react-native": "^0.26.0",
+    "react-native-lightbox": "^0.6.0",
+    "react-native-maps": "^0.5.0",
+    "react-native-router-flux": "~3.26.0",
+    "react-native-sound": "^0.8.1",
+    "react-native-tabs": "1.0.2",
+    "react-native-vector-icons": "^2.0.3",
+    "react-native-video": "git://github.com/brentvatne/react-native-video#master",
+    "react-redux": "4.4.1",
+    "redux": "3.3.1",
+    "redux-logger": "^2.6.1",
+    "redux-saga": "^0.9.4"
+  },
+  "devDependencies": {
+    "babel-jest": "^12.1.0",
+    "babel-preset-react-native": "^1.9.0",
+    "eslint": "^2.8.0",
+    "eslint-config-airbnb": "^8.0.0",
+    "eslint-plugin-import": "^1.5.0",
+    "eslint-plugin-jsx-a11y": "^1.0.2",
+    "eslint-plugin-react": "^5.0.1",
+    "jest-cli": "^12.1.1"
+  },
+  "jest": {
+    "testPathIgnorePatterns": [
+      "/node_modules/",
+      "packager/react-packager/src/Activity/"
+    ],
+    "testFileExtensions": [
+      "js"
+    ],
+    "unmockedModulePathPatterns": [
+      "promise",
+      "source-map"
+    ]
+  },
+  "haste": {
+    "defaultPlatform": "ios",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "providesModuleNodeModules": [
+      "react-native"
+    ]
+  }
+}
