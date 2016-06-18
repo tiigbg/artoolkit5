@@ -896,6 +896,8 @@
 		4AF9712B1B5F5709001BFEB5 /* timers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4AF9706A1B5F5708001BFEB5 /* timers.cpp */; };
 		4AF9712D1B5F5709001BFEB5 /* freak.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4AF970771B5F5708001BFEB5 /* freak.cpp */; };
 		4AF9712E1B5F5709001BFEB5 /* hough_similarity_voting.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4AF9707A1B5F5708001BFEB5 /* hough_similarity_voting.cpp */; };
+		535878F11D1439A200ACDEF1 /* ReactView.m in Sources */ = {isa = PBXBuildFile; fileRef = 535878EF1D1439A100ACDEF1 /* ReactView.m */; };
+		535878F31D143F4000ACDEF1 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 535878F21D143F4000ACDEF1 /* libReact.a */; };
 		5FCB3FA39900829E902C9449 /* libPods-ARAppCameraTest.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A828363CB7C660EE97FC593 /* libPods-ARAppCameraTest.a */; };
 		6611F99E0E93362B12E92487 /* libPods-ARvideo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 393C8F3516EE71E9A075B227 /* libPods-ARvideo.a */; };
 		6EDDFCB058E97F3AD1A41D39 /* libPods-ARAppMovie.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ADDCE959577DBBA4ABCD8353 /* libPods-ARAppMovie.a */; };
@@ -3274,6 +3276,9 @@
 		510D12B714A3B8A10568159F /* Pods-AR2.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AR2.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AR2/Pods-AR2.debug.xcconfig"; sourceTree = "<group>"; };
 		51DF3987B19876BFE785FD8C /* Pods-ARMulti.distribution.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARMulti.distribution.xcconfig"; path = "Pods/Target Support Files/Pods-ARMulti/Pods-ARMulti.distribution.xcconfig"; sourceTree = "<group>"; };
 		52649A94BF07555A39124494 /* Pods-ARApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARApp.release.xcconfig"; path = "Pods/Target Support Files/Pods-ARApp/Pods-ARApp.release.xcconfig"; sourceTree = "<group>"; };
+		535878EE1D1439A100ACDEF1 /* ReactView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReactView.h; sourceTree = "<group>"; };
+		535878EF1D1439A100ACDEF1 /* ReactView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReactView.m; sourceTree = "<group>"; };
+		535878F21D143F4000ACDEF1 /* libReact.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libReact.a; path = "../../../Library/Developer/Xcode/DerivedData/ARToolKit5iOS-cvhucakdteangtbpicyndyavcwgq/Build/Products/Release-iphoneos/React/libReact.a"; sourceTree = "<group>"; };
 		5421664FD69EF873C08ACDA2 /* Pods-Eden.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Eden.release.xcconfig"; path = "Pods/Target Support Files/Pods-Eden/Pods-Eden.release.xcconfig"; sourceTree = "<group>"; };
 		5C92B0E65DAC3BACC4370429 /* Pods-ARAppNFTOSG.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARAppNFTOSG.release.xcconfig"; path = "Pods/Target Support Files/Pods-ARAppNFTOSG/Pods-ARAppNFTOSG.release.xcconfig"; sourceTree = "<group>"; };
 		5EF06534247E4E98F0245499 /* Pods-ARAppNFT.distribution.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARAppNFT.distribution.xcconfig"; path = "Pods/Target Support Files/Pods-ARAppNFT/Pods-ARAppNFT.distribution.xcconfig"; sourceTree = "<group>"; };
@@ -3479,6 +3484,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				535878F31D143F4000ACDEF1 /* libReact.a in Frameworks */,
 				4A920D691CC87EED0065B301 /* libz.dylib in Frameworks */,
 				4A13031E15BDFF17003A441C /* libARgsub_es.a in Frameworks */,
 				4A13031F15BDFF17003A441C /* libARMulti.a in Frameworks */,
@@ -6496,6 +6502,8 @@
 		78BB3DD208E482DA00D7CA2D = {
 			isa = PBXGroup;
 			children = (
+				535878EE1D1439A100ACDEF1 /* ReactView.h */,
+				535878EF1D1439A100ACDEF1 /* ReactView.m */,
 				4A752F68116238DD009877B3 /* README (ARToolKit for iOS).md */,
 				4AE6FE7F0BC24FFC0084390C /* ChangeLog.txt */,
 				4AF9714D1B5F58A6001BFEB5 /* LICENSE.txt */,
@@ -6789,6 +6797,7 @@
 		932E266965B138E70691D1F6 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				535878F21D143F4000ACDEF1 /* libReact.a */,
 				9E97104CAFA83DEC1A9B1E9F /* libPods-AR.a */,
 				B817B14DCAAE87C73700ABB0 /* libPods-AR2.a */,
 				CE6A700B0DCB845D51490A07 /* libPods-ARApp.a */,
@@ -8480,6 +8489,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				535878F11D1439A200ACDEF1 /* ReactView.m in Sources */,
 				4A13034715BE02E1003A441C /* ARAppNFTDelegate.m in Sources */,
 				4A13034815BE02E1003A441C /* ARViewController.m in Sources */,
 				4A33B6DE18ADB9A20028A979 /* VirtualEnvironment.m in Sources */,
@@ -10091,6 +10101,7 @@
 					lib/ios7,
 					lib,
 				);
+				"OTHER_LDFLAGS[arch=*]" = "-ObjC";
 				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
 			};
@@ -10494,7 +10505,10 @@
 				ENABLE_TESTABILITY = YES;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
-				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					DEBUG,
+					"DEBUG=1",
+				);
 				GCC_VERSION = "";
 				GCC_WARN_ABOUT_MISSING_FIELD_INITIALIZERS = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
@@ -10519,6 +10533,7 @@
 					lib/ios7,
 					lib,
 				);
+				"OTHER_LDFLAGS[arch=*]" = "-ObjC";
 				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
 				WARNING_CFLAGS = "-Wall";
@@ -10550,6 +10565,7 @@
 					lib/ios7,
 					lib,
 				);
+				"OTHER_LDFLAGS[arch=*]" = "-ObjC";
 				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
 			};
